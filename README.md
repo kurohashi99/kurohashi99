@@ -1,3 +1,1 @@
-- 👋 Hi, my pseudo is @kurohashi99
-- 👀 I’m student in IT, CYBERSECURITY
-
+🌟 Kurohasi | Développeur et Créateur de Solutions Numériques 👋 **Bienvenue sur mon GitHub !** Je suis passionné par le développement logiciel, l'innovation technologique et la résolution de problèmes complexes. Avec un esprit d'équipe et une approche axée sur l'amélioration continue, je travaille chaque jour pour créer des solutions qui ont un impact. --- ### 💡 À propos de moi : - 🔭 **Projets actuels** : Développement d'applications backend et création de solutions personnalisées pour améliorer les processus numériques. - 🌱 **En apprentissage** : Docker, Kubernetes et intelligence artificielle. - 💬 **Discussions** : J'aime échanger sur les architectures logicielles, la cybersécurité et le développement personnel. - 🎯 **Objectif** : Faire de la technologie un levier de transformation positive. -
